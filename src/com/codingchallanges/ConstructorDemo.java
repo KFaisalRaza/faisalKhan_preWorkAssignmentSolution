@@ -1,4 +1,4 @@
-package com.codingchallange3;
+package com.codingchallanges;
 
 public class ConstructorDemo {
 
